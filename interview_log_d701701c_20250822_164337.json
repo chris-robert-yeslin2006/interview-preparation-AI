@@ -1,0 +1,47 @@
+{
+  "session_id": "d701701c-d03f-4c03-b228-73e9ba07d52e",
+  "context": {
+    "company": "Google",
+    "role": "Software Engineer",
+    "interview_type": "Technical",
+    "max_questions": 2,
+    "candidate_name": "Chris"
+  },
+  "start_time": "2025-08-22T16:42:16.229952",
+  "end_time": "2025-08-22T16:43:37.280843",
+  "is_complete": true,
+  "questions": [
+    {
+      "number": 1,
+      "text": " Question: Can you explain how you would approach designing a scalable, fault-tolerant distributed system for serving millions of requests per day while minimizing latency and ensuring high availability? Please describe any specific algorithms or data structures you would use, and discuss the potential trade-offs involved in your design choices.",
+      "timestamp": "2025-08-22T16:42:20.866504"
+    },
+    {
+      "number": 2,
+      "text": " Follow-up question: In your proposed design, how do you plan to handle cache eviction when memory limits are reached? Can you explain the specific algorithm or strategy you would use and why you think it is an effective solution for maintaining a high hit ratio while minimizing cache misses?\n\nAdditionally, discuss any considerations for handling skewed data distributions, ensuring fairness among requests, and dealing with hot keys in your design.",
+      "timestamp": "2025-08-22T16:43:05.634453"
+    }
+  ],
+  "answers": [
+    {
+      "question_number": 1,
+      "text": "biinary treee for cache handling",
+      "timestamp": "2025-08-22T16:42:47.157213"
+    },
+    {
+      "question_number": 2,
+      "text": "i cant get it",
+      "timestamp": "2025-08-22T16:43:28.790968"
+    }
+  ],
+  "scores": [
+    5,
+    1
+  ],
+  "feedbacks": [
+    "The answer provided is somewhat relevant to the question but lacks detail and focus on key aspects of designing a scalable, fault-tolerant distributed system. A binary tree can be used for caching purposes in certain scenarios, but it's important to discuss other components such as load balancing, service discovery, data partitioning, replication, and failover mechanisms when addressing this question. Also, mentioning specific algorithms or data structures like Consistent Hashing, LRU (Least Recently Used) eviction policy, or Bloom Filters can strengthen the answer. The response could be improved by discussing trade-offs involved in design choices, such as increased latency due to cache misses vs. lower memory usage and higher availability with smaller caches, or the impact of data skew on the performance of a load balancing algorithm.",
+    "The answer provided does not address the question at all, which was about cache eviction strategies, handling skewed data distributions, ensuring fairness among requests, and dealing with hot keys in a proposed design. A good response would have discussed specific algorithms or strategies for cache eviction (e.g., LRU, LFU, ARC), how they maintain a high hit ratio while minimizing cache misses, and provided insights into handling skewed data distributions, ensuring fairness among requests, and dealing with hot keys in the context of those strategies."
+  ],
+  "total_score": 6,
+  "average_score": 3.0
+}
