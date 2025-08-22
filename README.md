@@ -1,5 +1,5 @@
 🤖 AI Interview Assistant – LM studio
-<p align="center"> <em>“Train for interviews like a hero — sharpen your answers, build confidence, and level up your skills!”</em> 🎤💼⚡ </p> <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnQ0aXk0YjFmbzZjZjR2dXRhdXVkODdya2hsZXd0c3dtanp6dnI3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tJMUH7kTD8nVJHDKmi/giphy.gif" height="220"/> </p> <p align="center"> A personalized <strong>interview practice app</strong> powered by a <strong>local AI model</strong> via <strong>LM Studio</strong>. No cloud, no API costs — just pure offline AI helping you prepare 🚀 </p>
+<p align="center"> <em>“Train for interviews like a hero — sharpen your answers, build confidence, and level up your skills!”</em> 🎤💼⚡ </p> <p align="center"> </p> <p align="center"> A personalized <strong>interview practice app</strong> powered by a <strong>local AI model</strong> via <strong>LM Studio</strong>. No cloud, no API costs — just pure offline AI helping you prepare 🚀 </p>
 ✨ Features
 
 🎙️ Ask interview questions and get AI-generated responses
